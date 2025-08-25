@@ -1,4 +1,4 @@
-File Read & Write Challenge 🖋️ & Error Handling Lab 🧪
+**File Read & Write Challenge 🖋️ & Error Handling Lab** 🧪
 📌 Description
 
 This project demonstrates how to read, modify, and write files in Python, while also practicing error handling.
