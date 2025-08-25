@@ -4,7 +4,7 @@
 This project demonstrates how to read, modify, and write files in Python, while also practicing error handling.
 It is divided into two main parts:
 
-File Read & Write Challenge 🖋️
+**File Read & Write Challenge **🖋️
 
 Reads from input.txt
 
@@ -13,8 +13,7 @@ Modifies the content (default: makes text uppercase)
 Saves the modified content into output.txt
 
 If input.txt doesn’t exist, the program will create it automatically with a default introduction text.
-
-Error Handling Lab 🧪
+**Error Handling Lab** 🧪
 
 Asks the user to type a filename
 
@@ -26,7 +25,7 @@ If permissions are missing → shows a warning
 
 If something unexpected happens → shows the error safely
 
-🚀 Outcomes
+🚀** Outcomes**
 
 By running this project, you will learn:
 
